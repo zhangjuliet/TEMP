@@ -1,0 +1,27 @@
+.acm-image {
+    width: 100px;
+}
+
+.committee-name {
+    color: blue;
+}
+
+.committee-name.wholesome {
+    font-size: 50px;
+}
+
+.snazzy {
+    color: green;
+}
+
+#title {
+    background-color: blueviolet;
+}
+
+p {
+    font-size: 40px;
+}
+
+/*
+Importance (highest to lowest): IDs > class > tags
+*/
